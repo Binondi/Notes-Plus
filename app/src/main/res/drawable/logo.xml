@@ -1,0 +1,25 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android" android:height="24dp" android:viewportHeight="60" android:viewportWidth="60" android:width="24dp">
+      
+    <path android:fillColor="#00ffffff" android:pathData="M10,0L50,0A10,10 0,0 1,60 10L60,50A10,10 0,0 1,50 60L10,60A10,10 0,0 1,0 50L0,10A10,10 0,0 1,10 0z"/>
+      
+    <path android:fillColor="#f1f3f4" android:pathData="M36,52H16a4,4 0,0 1,-4 -4V12a4,4 0,0 1,4 -4H44a4,4 0,0 1,4 4V40Z"/>
+      
+    <path android:fillColor="#aaadbf" android:pathData="M36,53.5H16A5.506,5.506 0,0 1,10.5 48V12A5.506,5.506 0,0 1,16 6.5H44A5.506,5.506 0,0 1,49.5 12V40a1.5,1.5 0,0 1,-0.439 1.061l-12,12A1.5,1.5 0,0 1,36 53.5ZM16,9.5A2.5,2.5 0,0 0,13.5 12V48A2.5,2.5 0,0 0,16 50.5H35.379L46.5,39.379V12A2.5,2.5 0,0 0,44 9.5Z"/>
+      
+    <path android:fillColor="#eff28d" android:pathData="M16,8H44a4,4 0,0 1,4 4v4a0,0 0,0 1,0 0H12a0,0 0,0 1,0 0V12A4,4 0,0 1,16 8Z"/>
+      
+    <path android:fillColor="#f2bf80" android:pathData="M48,17.5L12,17.5A1.5,1.5 0,0 1,10.5 16L10.5,12A5.506,5.506 0,0 1,16 6.5L44,6.5A5.506,5.506 0,0 1,49.5 12v4A1.5,1.5 0,0 1,48 17.5ZM13.5,14.5h33L46.5,12A2.5,2.5 0,0 0,44 9.5L16,9.5A2.5,2.5 0,0 0,13.5 12Z"/>
+      
+    <path android:fillColor="#eac8c9" android:pathData="M40,25.5H20a1.5,1.5 0,0 1,0 -3H40a1.5,1.5 0,0 1,0 3Z"/>
+      
+    <path android:fillColor="#eac8c9" android:pathData="M40,33.5H20a1.5,1.5 0,0 1,0 -3H40a1.5,1.5 0,0 1,0 3Z"/>
+      
+    <path android:fillColor="#eac8c9" android:pathData="M40,41.5H20a1.5,1.5 0,0 1,0 -3H40a1.5,1.5 0,0 1,0 3Z"/>
+      
+    <path android:fillColor="#aaadbf" android:pathData="M36,53.5A1.5,1.5 0,0 1,34.5 52V44A5.506,5.506 0,0 1,40 38.5h8a1.5,1.5 0,0 1,0 3H40A2.5,2.5 0,0 0,37.5 44v8A1.5,1.5 0,0 1,36 53.5Z"/>
+      
+    <path android:fillColor="#ffe1a0" android:pathData="M12,17.5A1.5,1.5 0,0 1,10.5 16V12A5.506,5.506 0,0 1,16 6.5H44a1.5,1.5 0,0 1,0 3H16A2.5,2.5 0,0 0,13.5 12v4A1.5,1.5 0,0 1,12 17.5Z"/>
+      
+    <path android:fillColor="#f2bf80" android:pathData="M48,17.5H12a1.5,1.5 0,0 1,0 -3H48a1.5,1.5 0,0 1,0 3Z"/>
+    
+</vector>

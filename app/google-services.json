@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "905514281595",
+    "firebase_url": "https://notes-plus-68dcb-default-rtdb.firebaseio.com",
+    "project_id": "notes-plus-68dcb",
+    "storage_bucket": "notes-plus-68dcb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905514281595:android:e9f386217b9fd38bf1d0de",
+        "android_client_info": {
+          "package_name": "devs.org.notesplus"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkMARaEw2cPgMKqKDwqtWjoO_tTymSuMM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
