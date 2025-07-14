@@ -9,7 +9,7 @@ import devs.org.notesplus.models.Notes
 
 class NotesRepository {
     val database = FirebaseDatabase.getInstance()
-    val notesRef = database.reference.child("notes")
+    val notesRef = database.reference.child("notes")  
 
     fun fetchNotes(onSuccess: (List<Notes>) -> Unit, onError: (Exception) -> Unit) {
         notesRef.addValueEventListener(object : ValueEventListener {
